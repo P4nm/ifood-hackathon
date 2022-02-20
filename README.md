@@ -33,7 +33,7 @@ Primeiramente, pensamos em fazer uma navegação fácil dentro do aplicativo, ve
 <img src="/restricao.png"> <p>Novas Ferramentas: Informações sobre restrições alimentares.</p>
 
 ## Receitas
-<img src="/patrocinio.png"> <p>Novas Ferramentas: Patrocínio incluindo mini vídeos de receitas, informações e foto.</p>
+<img src="/novaimg.png"> <p>Novas Ferramentas: Patrocínio incluindo mini vídeos de receitas, informações e foto.</p>
 
 ## Adicionar Refeição
 <img src="/addrefeicao.png"> <p>Novas Ferramentas: Escolher refeição/produto.</p>
