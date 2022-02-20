@@ -18,26 +18,26 @@
 
 Primeiramente, pensamos em fazer uma navegação fácil dentro do aplicativo, verificamos o problema e a falta de filtros em relação a refeições/produtos e com isso incluímos novas abas, facilitando a visualização e na hora de conclusão do pedido.
 
-Home
-<img src="/home.png"> novas ferramentas: Ilustração de como seria a apresentação da nova ABA dentro do aplicativo.
+## Home 
+<img src="/home.png"> <p>Novas Ferramentas: Ilustração de como seria a apresentação da nova ABA dentro do aplicativo.</p>
 
-Perfil
-<img src="/perfil.png"> novas ferramentas: restrição e meu cardápio.
+## Perfil
+<img src="/perfil.png"> <p>Novas Ferramentas: Restrição e meu cardápio.</p>
 
-Meu cardápio
-<img src="/cardapio.png"> novas ferramentas: lista com seus pratos/receitas.
+## Meu cardápio
+<img src="/cardapio.png"> <p>Novas Ferramentas: Lista com seus pratos/receitas.</p>
 
-Restrições alimentares
-<img src="/restricao.png"> novas ferramentas: informações sobre restrições alimentares.
+## Restrições alimentares
+<img src="/restricao.png"> <p>Novas Ferramentas: Informações sobre restrições alimentares.</p>
 
-Receitas
-<img src="/patrocio.png"> novas ferramentas: patrocinio incluindo mini vídeos de receitas, informações e foto.
+## Receitas
+<img src="/patrocinio.png"> <p>Novas Ferramentas: Patrocínio incluindo mini vídeos de receitas, informações e foto.</p>
 
-Adicionar Refeição
-<img src="/addrefeicao.png"> novas ferramentas: Escolher refeição/produto.
+## Adicionar Refeição
+<img src="/addrefeicao.png"> <p>Novas Ferramentas: Escolher refeição/produto.</p>
 
-Adicionar restrição
-<img src="addrestricao.png"> novas ferramentas: Incluir restrição.
+## Adicionar restrição
+<img src="addrestricao.png"> <p>Novas Ferramentas: Incluir restrição.</p>
 
-Receita detalhada
-<img src= "/receita.png"> novas ferramentas: Detalhamento sobre a receita.
+## Receita detalhada
+<img src= "/receita.png"> <p>Novas Ferramentas: Detalhamento sobre a receita.</p>
