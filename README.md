@@ -25,7 +25,9 @@ Primeiramente, pensamos em fazer uma navegação fácil dentro do aplicativo, ve
 <img src="/perfil.png"> <p>Novas Ferramentas: Restrição e meu cardápio.</p>
 
 ## Meu cardápio
-<img src="/cardapio.png"> <p>Novas Ferramentas: Lista com seus pratos/receitas.</p>
+<img src="/cardapio.png"> <p>Novas Ferramentas: Lista com seus pratos/receitas.</p> 
+<p>Filtragem: Utilizamos react para interação com a API.</p>
+<p>Adicionar: Interação em conjunto com a API para adicionar itens, utlizando um CRUD.</p>
 
 ## Restrições alimentares
 <img src="/restricao.png"> <p>Novas Ferramentas: Informações sobre restrições alimentares.</p>
@@ -35,9 +37,12 @@ Primeiramente, pensamos em fazer uma navegação fácil dentro do aplicativo, ve
 
 ## Adicionar Refeição
 <img src="/addrefeicao.png"> <p>Novas Ferramentas: Escolher refeição/produto.</p>
+<p>Listas construídas a partir de uma API com CRUD.</p>
 
 ## Adicionar restrição
 <img src="addrestricao.png"> <p>Novas Ferramentas: Incluir restrição.</p>
 
 ## Receita detalhada
 <img src= "/receita.png"> <p>Novas Ferramentas: Detalhamento sobre a receita.</p>
+<p>Vídeo: Usar linkagem com Youtube para obter melhor performance.</p>
+<p>Os dados serão atualizados por restaurantes parceiros.</p>
